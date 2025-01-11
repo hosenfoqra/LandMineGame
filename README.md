@@ -29,3 +29,6 @@ Here are some glimpses of the game:
 
   Play it here: [LandMine Game](https://hosenfoqra.github.io/LandMineGame/)
    
+## 🛠️ About the Repository
+This repository contains:
+- **SourceCode/**: The Unity project files, including scripts and assets.
